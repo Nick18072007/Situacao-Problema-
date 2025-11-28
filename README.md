@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Chat - Situação Problema sobre Motos</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
